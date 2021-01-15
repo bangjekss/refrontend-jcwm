@@ -1,14 +1,34 @@
 {
-    "products" : [
-        {
-            "id": 1,
-            "date": "2021-01-12T03:20:41.718Z",
-            "name": "Meja Lipat",
-            "serial": 1682697,
-            "stock": 6,
-            "category": "Furniture",
-            "price": 567890,
-            "status": "avaiable"
-          }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "date": "2021-01-12T03:20:41.718Z",
+      "name": "Meja Lipat",
+      "serial": 1682697,
+      "stock": 6,
+      "category": "Furniture",
+      "price": 567890,
+      "status": "avaiable"
+    },
+    {
+      "date": "2021-01-15T09:28:56.070Z",
+      "name": "asyo",
+      "serial": 1610702936070,
+      "stock": 1,
+      "category": "ucok",
+      "price": 10000,
+      "status": "avaiable",
+      "id": 7
+    },
+    {
+      "date": "2021-01-15T10:25:40.666Z",
+      "name": "aku",
+      "serial": 1610706340666,
+      "stock": 12,
+      "category": "anjay",
+      "price": 5000,
+      "status": "avaiable",
+      "id": 8
+    }
+  ]
 }
